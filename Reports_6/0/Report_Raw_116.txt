@@ -1,0 +1,45 @@
+
+Angles Over Time
+Frames	Rotate	ChildRotate	RotateInverse	ChildRotateInverse	Docking x	Docking y	Docking z	
+0	-89.77643	-96.1171	0	36.348	38.28809	94.2477	71.70156	
+1	-90.01086	-93.77277	0	34.94141	38.42328	93.92461	72.73174	
+2	-89.77643	-92.83502	0	34.23812	38.44597	92.92883	72.79556	
+3	-89.54199	-92.60059	0	34.23812	38.81609	92.73383	73.0564	
+4	-89.30759	-92.60059	0	33.76925	38.7246	92.20925	72.31413	
+5	-89.07315	-92.60059	0	33.76925	38.43678	91.25861	71.35064	
+6	-89.07315	-92.60059	0	36.81687	38.32426	90.7621	71.25362	
+
+
+Angle MV instances
+Rotate	89.77643	
+ChildRotate	96.1171	2.34433	
+RotateInverse	
+ChildRotateInverse	36.348	3.047615	
+Docking x	38.28809	
+Docking y	94.2477	
+Docking z	71.70156	
+Total MV Amount	431.8708
+
+
+Angle TRE instances
+Rotate	
+ChildRotate	
+RotateInverse	1	
+ChildRotateInverse	
+Docking x	
+Docking y	
+Docking z	
+Total TRE Count	0
+
+
+Correct Angles	Rotate	ChildRotate	RotateInverse	ChildRotateInverse	Docking x	Docking y	Docking z
+	-0.4744263	-0.00254506	0	0.161189	0	0	0
+
+Angle Error	Rotate	ChildRotate	RotateInverse	ChildRotateInverse	Docking x	Docking y	Docking z
+	89.06757	92.59804	0	34.5458	38.28776	90.19543	71.14864
+
+Time Taken	Hours	Minutes	Seconds	Milliseconds	Seconds float	Completion time
+	0	0	0	410	0.4097729	00h:00m:00s:410ms
+
+Final Results	Tester Name	Time of Test	Dock Shape Style	Virtual Device Visible	Time Taken	Shape Precision %	Orientation Precision %	Overall Precision %	Efficiency %	Difficulty	Total MV	Total TRE	
+	0	2018-11-07_15:33:42	ZEROING DATA	True	00h:00m:00s:410ms	69.97064	70.12147	66.99657	99.99665	0.000709067	431.8708	0	
